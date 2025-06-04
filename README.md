@@ -1,5 +1,4 @@
 ## Hi there 👋
-(Image JunAM.png)[Java Logo]
 
 <!--
 **amir-tavakoli/amir-tavakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
