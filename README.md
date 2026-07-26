@@ -31,10 +31,10 @@
 <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server"/>
 
 </p>
-## 🏆 GitHub Trophies
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amir-tavakoli&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://komarev.com/ghpvc/?username=amir-tavakoli&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 ---
 
