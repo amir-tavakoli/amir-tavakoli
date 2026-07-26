@@ -82,5 +82,7 @@
 <div align="center">
 
 ### "Code. Learn. Build. Repeat."
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-tavakoli&theme=tokyonight">
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+</p>
 </div>
