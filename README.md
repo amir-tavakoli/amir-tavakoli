@@ -25,13 +25,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,flutter,dart,mongodb,sqlite,git,github,vscode,linux,html,css"/>
-</p>
 
-<p align="center">
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="Microsoft SQL Server"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,flutter,dart,git,github,mongodb,sqlite,vscode,linux,html,css" />
+
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server"/>
+
 </p>
----
 
 ## 📈 GitHub Stats
 
