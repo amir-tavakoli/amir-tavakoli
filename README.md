@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:06B6D4,100:22C55E&text=Amir%20Tavakoli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Python%20|%20Flutter%20|%20Founder%20of%20NoApp&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:06B6D4,100:22C55E&text=Amir%20Tavakoli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Python%20|%20Flutter%20|%20Founder%20of%20NOAUP&descAlignY=58"/>
 </p>
 
 ### Software Developer | Python Enthusiast | Founder of NOAUP
