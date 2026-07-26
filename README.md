@@ -2,7 +2,7 @@
 
 # Hi, I'm Amir Tavakoli 👋
 
-### Software Developer | Python Enthusiast | Founder of NoApp
+### Software Developer | Python Enthusiast | Founder of NOAUP
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3BA55D&center=true&vCenter=true&width=500&lines=Software+Developer;Python+Developer;Learning+Flutter;Building+NoApp;Always+Learning+New+Things" />
 
