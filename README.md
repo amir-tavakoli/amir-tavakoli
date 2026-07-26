@@ -6,7 +6,7 @@
 
 ### Software Developer | Python Enthusiast | Founder of NOAUP
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3BA55D&center=true&vCenter=true&width=500&lines=Software+Developer;Python+Developer;Learning+Flutter;Building+NoApp;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3BA55D&center=true&vCenter=true&width=500&lines=Software+Developer;Python+Developer;Learning+Flutter;Building+NOAUP;Always+Learning+New+Things" />
 
 </div>
 
@@ -31,12 +31,11 @@
 <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server"/>
 
 </p>
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-tavakoli&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amir-tavakoli&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
