@@ -26,19 +26,23 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-tavakoli&layout=compact&theme=radical&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,flutter,dart,git,github,mongodb,sqlite,vscode,linux,html,css" />
+
 </p>
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
 
-[<img height="170" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-tavakoli&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
