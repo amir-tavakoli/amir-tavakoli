@@ -1,8 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-tavakoli&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:06B6D4,100:22C55E&text=Amir%20Tavakoli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Python%20|%20Flutter%20|%20Founder%20of%20NoApp&descAlignY=58"/>
 </p>
 
 ### Software Developer | Python Enthusiast | Founder of NOAUP
@@ -27,11 +26,9 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,flutter,dart,git,github,mongodb,sqlite,vscode,linux,html,css" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-tavakoli&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
 ---
 
 ## 📈 GitHub Stats
