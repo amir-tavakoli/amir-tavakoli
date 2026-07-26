@@ -58,7 +58,7 @@
 - Build scalable backend applications
 - Master Flutter
 - Learn DevOps
-- Grow NoApp
+- Grow NOAUP
 - Contribute to Open Source
 
 ---
