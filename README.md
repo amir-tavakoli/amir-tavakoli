@@ -86,6 +86,4 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amir-tavakoli&theme=tokyonight&no-frame=true&row=1">
-
 </div>
