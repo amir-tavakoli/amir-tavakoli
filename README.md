@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm Amir Tavakoli 👋
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-tavakoli&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ### Software Developer | Python Enthusiast | Founder of NOAUP
 
