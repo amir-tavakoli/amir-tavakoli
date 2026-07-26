@@ -30,11 +30,6 @@
 
 <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server"/>
 
-</p>
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amir-tavakoli&show_icons=true&theme=radical&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-tavakoli&layout=compact&theme=radical"/>
-</p>
 ---
 
 ## 🔥 GitHub Streak
