@@ -15,7 +15,7 @@
 - 🎓 Computer Science Student
 - 🐍 Python Developer
 - 📱 Currently learning Flutter
-- 🚀 Founder of **NoApp**
+- 🚀 Founder of **NOAUP**
 - 💡 Interested in AI, Backend Development and Mobile Apps
 - 📚 I enjoy teaching programming and building practical projects.
 
