@@ -63,21 +63,11 @@
 <a href="www.linkedin.com/in/amir-hossein-tavakoli">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-## 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-&nbsp;&nbsp;
 
 <a href="https://t.me/amir12ta">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="50"/>
 </a>
 
-</p>
 </p>
 
 ---
