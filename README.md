@@ -126,3 +126,16 @@ Python                   ██████████████████�
 Flutter                  ██████████████░░░░░░
 DevOps                   ███████████░░░░░░░░░
 Artificial Intelligence  ██████████░░░░░░░░░░
+
+
+```
+
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+</div>
