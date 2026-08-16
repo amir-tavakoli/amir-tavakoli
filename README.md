@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F59E0B,50:FBBF24,100:F97316&text=AmirHossein%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Founder%20of%20NOAUP&descAlignY=58"/>type=waving&height=280&color=0:4F46E5,50:06B6D4,100:22C55E&text=AmirHossein%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Founder%20of%20NOAUP&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:D97706,50:F59E0B,100:EA580C&text=AmirHossein%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Founder%20of%20NOAUP&descAlignY=58"/>
+type=waving&height=280&color=0:4F46E5,50:06B6D4,100:22C55E&text=AmirHossein%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Founder%20of%20NOAUP&descAlignY=58"/>
 
 <h3>Software Developer • Python • Flutter • Founder of NOAUP</h3>
 
