@@ -60,7 +60,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/amir-hossein-tavakoli">
+<a href="https://www.linkedin.com/in/amir-hossein-tavakoli">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
