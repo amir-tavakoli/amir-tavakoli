@@ -1,11 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:D97706,50:F59E0B,100:EA580C&text=AmirHossein%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Founder%20of%20NOAUP&descAlignY=58"/>
-type=waving&height=280&color=0:4F46E5,50:06B6D4,100:22C55E&text=AmirHossein%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%7C%20Flutter%20%7C%20Founder%20of%20NOAUP&descAlignY=58"/>
 
 <h3>Software Developer • Python • Flutter • Founder of NOAUP</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=3BA55D&center=true&vCenter=true&width=650&lines=Software+Developer;Python+Developer;Backend+Development;Flutter+Developer;Founder+of+NOAUP;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Software+Developer;Python+Developer;Backend+Development;Flutter+Developer;Founder+of+NOAUP;Always+Learning+%26+Building" />
 
 </div>
 
@@ -122,21 +121,8 @@ I believe the best way to learn programming is to **build things, break things, 
 ## 🎯 Current Focus
 
 ```text
-Backend Development   █████████████████░░░
-Python                ██████████████████░░
-Flutter               ██████████████░░░░░░
-DevOps                ███████████░░░░░░░░░
-Artificial Intelligence ██████████░░░░░░░░░░
-
-
-```
-
-
-<div align="center">
-
-### "Code. Learn. Build. Repeat."
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-</div>
+Backend Development      █████████████████░░░
+Python                   ██████████████████░░
+Flutter                  ██████████████░░░░░░
+DevOps                   ███████████░░░░░░░░░
+Artificial Intelligence  ██████████░░░░░░░░░░
